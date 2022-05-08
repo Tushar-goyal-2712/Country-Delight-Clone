@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Country Delight Website Clone
 
-Clone of cineflix website
+Clone of Country Delight website
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Cineflix Clone Website Link](https://country-delight-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Country-Delight-Clone.git
 ```
 
 Install node_module dependencies
